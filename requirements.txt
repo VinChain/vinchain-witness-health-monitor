@@ -1,0 +1,2 @@
+python-logstash==0.4.6
+git+https://github.com/VinChain/python-vinchain.git
